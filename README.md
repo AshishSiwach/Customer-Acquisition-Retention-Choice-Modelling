@@ -95,5 +95,5 @@ Based on the model outputs above, I recommended the following actions to the sta
 │   ├── Airbnb Case Customer Data.csv  # 3,000 observations of guest behavior
 │   └── Airbnb Case Host Data.csv      # 400 observations of homeowner behavior
 ├── scripts/
-│   └── airbnb_acquisition_model.R     # Full R script for cleaning and regression
+│   └── Choice model.R     # Full R script for cleaning and regression
 └── README.md
